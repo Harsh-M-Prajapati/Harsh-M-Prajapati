@@ -1,5 +1,5 @@
-![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)]
-<h1 align="center">Hi 👋, I'm Harsh Prajapati- A Software Developer👨‍💻 & A Musician🎤</h1>
+![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
+<h1 align="center">Hi 👋, I'm Harsh Prajapati- A Software Developer👨‍💻 & Musician🎤</h1>
 <h3 align="center">Highly driven professional with practical experience in the field of Software Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -15,7 +15,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gBC5ESz6aLwoK0oI_i8j_plo818kcbeS/view?usp=sharing](https://drive.google.com/file/d/1gBC5ESz6aLwoK0oI_i8j_plo818kcbeS/view?usp=sharing)
 
-- ⚡ Fun fact **The way in which a Musicians creates a song/music is very similar to the Agile Methodology: Define (Compose tune), Design (Produce music), Build (Mixing & Mastering), Test (Checking) and Release (Release the song) ;)**
+- ⚡ Fun fact **The way in which a Musicians creates a song/music is very similar to the Agile Methodology:
+-   Define (Compose tune), Design (Produce music), Build (Mixing & Mastering), Test (Checking) and Release (Release the song) 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
