@@ -13,8 +13,6 @@
 
 - 📫 You can reach me at **harshmprajapati17@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1gBC5ESz6aLwoK0oI_i8j_plo818kcbeS/view?usp=sharing](https://drive.google.com/file/d/1gBC5ESz6aLwoK0oI_i8j_plo818kcbeS/view?usp=sharing)
-
 - ⚡ Fun fact **The way in which a Musician creates a song/music is very similar to the Agile Methodology:** <br>
   Define (Compose a tune) <br>
   Design (Making music arrangements) <br>
